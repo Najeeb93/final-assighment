@@ -76,3 +76,10 @@
     
         
 }
+.deal-card img {
+    width: 250px;
+}
+.main-card {
+    width: 100%;
+    margin-top: 15px;
+}
