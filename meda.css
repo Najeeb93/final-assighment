@@ -1,0 +1,10 @@
+@media only screen and (max-width: 780px){
+    .deli {
+        display: none !important;
+    }
+}
+@media only screen and (max-width: 780px){
+    .pick {
+        width: 100% !important;
+    }
+}
